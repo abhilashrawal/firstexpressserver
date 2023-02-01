@@ -2,5 +2,25 @@
   "dependencies": {
     "ejs": "^3.1.8",
     "express": "^4.18.2"
-  }
+  },
+  "name": "express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhilashrawal/firstexpressserver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhilashrawal/firstexpressserver/issues"
+  },
+  "homepage": "https://github.com/abhilashrawal/firstexpressserver#readme",
+  "description": ""
 }
